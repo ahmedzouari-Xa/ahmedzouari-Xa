@@ -10,7 +10,7 @@
 
 ---
 
-*4th-Year Data Science Student*
+*Data Analytics & Computer Science Engineering Student at ESPRIT*
 
 Building AI-powered applications, modern mobile apps, and scalable software.
 
@@ -19,7 +19,7 @@ Building AI-powered applications, modern mobile apps, and scalable software.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,react,nextjs,firebase,appwrite,tensorflow,pytorch,opencv,docker,git,linux,mysql,postgres,vscode">
+  <img src="https://skillicons.dev/icons?i=python,ts,dart,flutter,fastapi,react,nextjs,firebase,appwrite,tensorflow,pytorch,opencv,docker,redis,git,linux,mysql,postgres,vscode">
 </p>
 
 <p align="center">
@@ -31,6 +31,11 @@ Building AI-powered applications, modern mobile apps, and scalable software.
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </p>
+
+## 🚀 Projects
+
+- **EL FIRMA**: agricultural enterprise platform (Symfony, Python, RAG chatbot, machine learning), ESPRIT PIDEV 2025-2026 team project.
+  👉 [View repository](https://github.com/YoussefAbbes/Esprit-PIDEV-3A3-2526-ELFIRMA)
 
 ## 📊 GitHub Stats
 
@@ -53,13 +58,10 @@ Building AI-powered applications, modern mobile apps, and scalable software.
 
 ### 🤝 Connect with me
 
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
-</a>
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ahmed-zouari-293610353/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:zouariahmed2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
